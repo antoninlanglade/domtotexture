@@ -10,8 +10,6 @@ Transform DOMNode (like font stuff) to image(texture) with Blob & Foreign object
 
 ## Installation
 
-## Installation
-
 ```sh
 npm install antoninlanglade/domToTexture -S
 ```
